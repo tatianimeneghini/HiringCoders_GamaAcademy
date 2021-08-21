@@ -2,7 +2,7 @@
 
 Exercícios através dos conteúdos do Hiring Coders, programa de treinamento online da Gama Academy e VTEX.
 
-## Organização
+### Organização
 Os conteúdos estão divididos em:
 - Lógica de Programação;
 - Metodologias Ágeis;
@@ -21,7 +21,7 @@ Os conteúdos estão divididos em:
 - Testes;
 - Boas Práticas.
 
-#### Node.js
+## Node.js
 Conteúdo do curso Node.js do Node.BR com Erick Wendel.
 
 ##### Módulos
